@@ -1,0 +1,36 @@
+
+1,what is Git?
+Git is a distributed version control system that tracks changes in source code during software development
+It allows multiple developers to work on a project equally, 
+maintains a history of changesmade in code development, and facilitates collaboration through features like branching, merging 
+and remote repositories. 
+Git is widely used in the software development industry and is known for its flexibility and efficiency.
+
+2,Diff between cVSS and DVCS?
+cvss stands for centralized Version Control System,developers need to connect to this central server for most operations for code development, cvcs has a single central repository
+dvcs strands for distributed Version Control System,developers can work independently without constant connection to a central server,dvcs gives each developer a full local copy, each developer has own local reposatory to develop code 
+
+3,what all the remote repositories we have for Git?
+github 
+gitlab 
+bitbucker
+sourceforge
+
+4,what is git branch and clone?
+git branch is a  way to work on different versions of your project at the same time
+git clone is a copying a project from the internet like GitHub to your local machine
+
+5,why devops need Git.
+Devops need git for team collebaration,git keeps a history of changes to the code so you can see who did what and when,it allows teams to work on different versions of the code equally without causing difficuiltes.it helps quickly to find and fix problems by looking at the history of code changes,if something goes wrong after a code update,git makes it easy to go back to a previous , git is like a smart assistant that helps teams work well together, keep track of changes, and make sure everything runs smoothly when updating software.
+
+7,what is read me file
+A readme file is like the instruction manual for a  project.its tells people that what kind of project is this, and how to installl project and run in loval machine , and what we have return in readme file that is displayed in readme.cd when developer see that project come to know that what is that project is for..
+
+8,how to create read me file  in git hub
+
+ readme file is now part of your GitHub repository and it will be  visible to anyone visiting your project
+Open your GitHub repository where you want to add a README file
+click on add readme 
+gitHub will open an editor,write your information which you want to display
+click on  preview changes tab to see how your readme file  will look like 
+add a brief description of your changes, and click on commit changes.

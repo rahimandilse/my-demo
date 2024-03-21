@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+}
+body{
+    background-color: rgb(243, 234, 234);
+}
+.container{
+    width: 100%;
+    border: 5px solid blue;
+}
+.row{
+   width: 85%;
+   margin: auto;    
+}
+.header{
+        width: 90%;
+        text-align: center;
+        margin: auto;
+}
+.header h1{
+    color: red;
+    margin-top: 10%;
+    font-size: 40px;
+}
+.header p{
+       margin: auto;
+       color: blue;
+       font-size: auto; 
+}
+.content{
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    align-items: center;
+}
+.card img{
+    margin: auto;
+    width: 100%;
+}
+.card{
+    flex: 1;
+    margin: 10px;
+}
+.card h4{
+    font-size: 20px;
+}
+.card p{
+    text-align: center;
+}
+button {
+    background-color: crimson;
+    border-radius: 50px;
+}
